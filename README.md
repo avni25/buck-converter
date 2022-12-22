@@ -6,9 +6,9 @@ Output: 5V
 
 
 
-https://github.com/avni25/buck-converter/blob/main/tlp.png
 
 
+![alt text](https://github.com/avni25/buck-converter/blob/main/tlp.png)
 
 
 
